@@ -36,7 +36,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/hotel-booking-confirmation-page?tab=submit)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/hotel-booking-confirmation-page-html-css-flexbox-css-grid-anPFgdW1p7)
 - Live Site URL: [My live site URL](https://shena9y.github.io/Frontend-Mentor---Hotel-booking-confirmation-page-solution/)
 - Repo URL: [GitHub repo URL](https://github.com/shena9y/Frontend-Mentor---Hotel-booking-confirmation-page-solution)
 
