@@ -36,9 +36,9 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add your Solution URL here](https://www.frontendmentor.io/challenges/hotel-booking-confirmation-page?tab=submit)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
-- Repo URL: [Add your GitHub repo URL here](https://github.com/shena9y)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/hotel-booking-confirmation-page?tab=submit)
+- Live Site URL: [My live site URL](https://shena9y.github.io/Frontend-Mentor---Hotel-booking-confirmation-page-solution/)
+- Repo URL: [GitHub repo URL](https://github.com/shena9y/Frontend-Mentor---Hotel-booking-confirmation-page-solution)
 
 ## My process
 
