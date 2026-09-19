@@ -7,6 +7,8 @@ This is a solution to a **Frontend Mentor** challenge: a hotel booking confirmat
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-Challenge-3F54A3?style=flat&logo=frontendmentor&logoColor=white)
 
+🔗 **Live Demo:** [https://shena9y.github.io/Frontend-Mentor---Hotel-booking-confirmation-page-solution/](https://shena9y.github.io/Frontend-Mentor---Hotel-booking-confirmation-page-solution/)
+
 ## ✨ Features
 
 - ✅ **Booking confirmation** layout with stay details, amenities and barcode
@@ -40,6 +42,8 @@ This is a solution to a **Frontend Mentor** challenge: a hotel booking confirmat
 ```
 
 ## 🚀 Getting Started
+
+**Try it live:** [https://shena9y.github.io/Frontend-Mentor---Hotel-booking-confirmation-page-solution/](https://shena9y.github.io/Frontend-Mentor---Hotel-booking-confirmation-page-solution/) — no installation needed!
 
 ```bash
 git clone https://github.com/shena9y/Frontend-Mentor---Hotel-booking-confirmation-page-solution.git
